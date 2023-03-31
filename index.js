@@ -9,4 +9,11 @@
 // import "./src/9-skip"
 // import "./src/10-take";
 // import "./src/11-throttle";
-import "./src/12-debounce"
+// import "./src/12-debounce"
+// import "./src/13-scan-reduce";
+// import "./src/14-concat";
+// import "./src/15-merge";
+// import "./src/16-combine-latest";
+// import "./src/17-switch-map";
+// import "./src/18-exhaust-map";
+import "./src/19-observable-types";
